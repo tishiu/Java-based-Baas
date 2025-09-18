@@ -1,5 +1,5 @@
 # Java-based-Baas
-MessAPI is scalable Backend-as-a-Service (BaaS) platform for real-time messaging with WebSocket and RESTAPI support.
+ Java-based-Baas is scalable Backend-as-a-Service (BaaS) platform for real-time messaging with WebSocket and RESTAPI support.
 
 ## Services Overview
 
